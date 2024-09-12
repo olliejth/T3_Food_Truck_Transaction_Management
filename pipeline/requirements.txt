@@ -1,0 +1,14 @@
+boto3
+openpyxl
+pylint
+pandas
+docker
+redshift_connector
+ipykernel
+matplotlib
+psycopg2-binary
+python-dotenv
+flask
+altair
+pyarrow
+redshift_connector

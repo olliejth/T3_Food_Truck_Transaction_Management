@@ -1,0 +1,9 @@
+streamlit
+pytest
+pylint
+pandas
+psycopg2-binary
+python-dotenv
+altair
+pyarrow
+redshift_connector

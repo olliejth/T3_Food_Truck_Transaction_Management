@@ -1,0 +1,67 @@
+{
+  "total daily transactions": 495,
+  "daily transactions per truck": [
+    {
+      "truck_id": 1,
+      "total": 136
+    },
+    {
+      "truck_id": 3,
+      "total": 134
+    },
+    {
+      "truck_id": 5,
+      "total": 119
+    },
+    {
+      "truck_id": 4,
+      "total": 44
+    },
+    {
+      "truck_id": 2,
+      "total": 40
+    },
+    {
+      "truck_id": 6,
+      "total": 22
+    }
+  ],
+  "total earnings per truck": [
+    {
+      "truck_id": 1,
+      "total": "$1011.7"
+    },
+    {
+      "truck_id": 2,
+      "total": "$327.15"
+    },
+    {
+      "truck_id": 3,
+      "total": "$1096.68"
+    },
+    {
+      "truck_id": 4,
+      "total": "$93.56"
+    },
+    {
+      "truck_id": 5,
+      "total": "$610.18"
+    },
+    {
+      "truck_id": 6,
+      "total": "$132.78"
+    }
+  ],
+  "pay method proportions": [
+    {
+      "payment_type": "card",
+      "count": 357,
+      "proportion": "72.12%"
+    },
+    {
+      "payment_type": "cash",
+      "count": 138,
+      "proportion": "27.88%"
+    }
+  ]
+}
